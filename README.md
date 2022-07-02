@@ -8,5 +8,5 @@ In the years of coding with VBA professionally I end up with a collection of sol
 All code snippets are free to use and modify
 I hope you find something useful
 
-Regards,
+Regards
 S
