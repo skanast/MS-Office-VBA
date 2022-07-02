@@ -6,7 +6,9 @@ Hello World!
 In the years of coding with VBA professionally I end up with a collection of solutions, examples and workarounds for Microsoft Office
 
 All code snippets are free to use and modify
+
 I hope you find something useful
 
-Regards
-S
+Regards,
+
+Skanast
